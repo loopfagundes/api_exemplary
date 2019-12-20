@@ -1,0 +1,175 @@
+{
+    "definitions": {},
+    "properties": {
+      "adult": {
+        "type": "boolean"
+      },
+      "backdrop_path": {
+        "type": "string",
+        "pattern": "^(.*)$"
+      },
+      "belongs_to_collection": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer"
+          },
+          "name": {
+            "type": "string",
+            "pattern": "^(.*)$"
+          },
+          "poster_path": {
+            "type": "string",
+            "pattern": "^(.*)$"
+          },
+          "backdrop_path": {
+            "type": "string",
+            "pattern": "^(.*)$"
+          }
+        }
+      },
+      "budget": {
+        "type": "integer"
+      },
+      "genres": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "name": {
+              "type": "string",
+              "pattern": "^(.*)$"
+            }
+          }
+        }
+      },
+      "homepage": {
+        "type": "string",
+        "pattern": "^(.*)$"
+      },
+      "id": {
+        "type": "integer"
+      },
+      "imdb_id": {
+        "type": "string",
+        "pattern": "^(.*)$"
+      },
+      "original_language": {
+        "type": "string",
+        "pattern": "^(.*)$"
+      },
+      "original_title": {
+        "type": "string",
+        "pattern": "^(.*)$"
+      },
+      "overview": {
+        "type": "string",
+        "pattern": "^(.*)$"
+      },
+      "popularity": {
+        "type": "number"
+      },
+      "poster_path": {
+        "type": "string",
+        "pattern": "^(.*)$"
+      },
+      "production_companies": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "integer"
+            },
+            "logo_path": {
+              "type": "string",
+              "pattern": "^(.*)$"
+            },
+            "name": {
+              "type": "string",
+              "pattern": "^(.*)$"
+            },
+            "origin_country": {
+              "type": "string",
+              "pattern": "^(.*)$"
+            }
+          }
+        }
+      },
+      "production_countries": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "iso_3166_1": {
+              "type": "string",
+              "pattern": "^(.*)$"
+            },
+            "name": {
+              "type": "string",
+              "pattern": "^(.*)$"
+            }
+          }
+        }
+      },
+      "release_date": {
+        "$id": "#/properties/release_date",
+        "type": "string",
+        "pattern": "^(.*)$"
+      },
+      "revenue": {
+        "$id": "#/properties/revenue",
+        "type": "integer"
+      },
+      "runtime": {
+        "$id": "#/properties/runtime",
+        "type": "integer"
+      },
+      "spoken_languages": {
+        "$id": "#/properties/spoken_languages",
+        "type": "array",
+        "items": {
+          "$id": "#/properties/spoken_languages/items",
+          "type": "object",
+          "properties": {
+            "iso_639_1": {
+              "$id": "#/properties/spoken_languages/items/properties/iso_639_1",
+              "type": "string",
+              "pattern": "^(.*)$"
+            },
+            "name": {
+              "$id": "#/properties/spoken_languages/items/properties/name",
+              "type": "string",
+              "pattern": "^(.*)$"
+            }
+          }
+        }
+      },
+      "status": {
+        "$id": "#/properties/status",
+        "type": "string",
+        "pattern": "^(.*)$"
+      },
+      "tagline": {
+        "$id": "#/properties/tagline",
+        "type": "string",
+        "pattern": "^(.*)$"
+      },
+      "title": {
+        "type": "string",
+        "pattern": "^(.*)$"
+      },
+      "video": {
+        "type": "boolean"
+      },
+      "vote_average": {
+        "type": "number"
+      },
+      "vote_count": {
+        "type": "integer"
+      }
+    }
+  }

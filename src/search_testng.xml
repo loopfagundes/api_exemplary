@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="All Test Suite">
+    <parameter name="baseUrl" value="https://api.themoviedb.org/3"/>
+    <parameter name="searchEP" value="search/movie"/>
+    <parameter name="apiKey" value="085b2e979e220c316cdcdbc544587aaa"/>
+    <parameter name="query" value="thor"/>
+    <parameter name="page" value="1"/>
+    <parameter name="adult" value="false"></parameter>
+    <test name="GET with success">
+        <classes>
+            <class name="testcases.SearchTestCase">
+                <methods>
+                    <include name="GETSearchWithSuccess"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

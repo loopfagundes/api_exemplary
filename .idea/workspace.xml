@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04347074-162b-4a8f-b4fc-6511efc2b73a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V7U4qg5MuKcVyUmh6JS5ijuBWH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\luciano.fagundes\eclipse-workspace\movie-api\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/luciano.fagundes/eclipse-workspace/movie-api/src/movie_testng.xml">
+    <configuration name="C:/Users/luciano.fagundes/eclipse-workspace/movie-api/src/movie_testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="movie-api" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/movie_testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/luciano.fagundes/eclipse-workspace/movie-api/src/search_testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="movie-api" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/search_testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/luciano.fagundes/eclipse-workspace/movie-api/src/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="movie-api" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieTestCase.GETMovieWithSuccess" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="movie-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases" />
+      <option name="MAIN_CLASS_NAME" value="testcases.MovieTestCase" />
+      <option name="METHOD_NAME" value="GETMovieWithSuccess" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchTestCase" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="movie-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases" />
+      <option name="MAIN_CLASS_NAME" value="testcases.SearchTestCase" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchTestCase" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="movie-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases" />
+      <option name="MAIN_CLASS_NAME" value="testcases.SearchTestCase" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/luciano.fagundes/eclipse-workspace/movie-api/src/movie_testng.xml" />
+        <item itemvalue="TestNG.C:/Users/luciano.fagundes/eclipse-workspace/movie-api/src/search_testng.xml" />
+        <item itemvalue="TestNG.C:/Users/luciano.fagundes/eclipse-workspace/movie-api/src/testng.xml" />
+        <item itemvalue="TestNG.SearchTestCase" />
+        <item itemvalue="TestNG.MovieTestCase.GETMovieWithSuccess" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04347074-162b-4a8f-b4fc-6511efc2b73a" name="Default Changelist" comment="" />
+      <created>1576603438572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576603438572</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Project_Structure" timestamp="1576775041611">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1576775041611" />
+    <state x="690" y="276" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1576694757253">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="276" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576694757253" />
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1576676326229">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576676326229" />
+    <state width="1877" height="131" key="GridCell.Tab.0.bottom" timestamp="1576872122750">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="131" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576872122750" />
+    <state width="1877" height="131" key="GridCell.Tab.0.center" timestamp="1576872122749">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="131" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576872122749" />
+    <state width="1877" height="131" key="GridCell.Tab.0.left" timestamp="1576872122749">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="131" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576872122749" />
+    <state width="1877" height="131" key="GridCell.Tab.0.right" timestamp="1576872122749">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="131" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576872122749" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1576604072426">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576604072426" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1576848560194">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576848560194" />
+  </component>
+</project>
